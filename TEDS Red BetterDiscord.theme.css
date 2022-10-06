@@ -1,0 +1,35 @@
+/**
+ * @name TEDS Red
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DovydasTEDS
+ * @version 1.0.0
+ * @authorId 446341204624408586
+ * @invite rMqJ9gsSrU
+ * @website https://tedps.tk/
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 150,0,0;
+  --accentcolor2: 255,115,250;
+  --linkcolor: 150,0,0;
+  --mentioncolor: 150,0,0;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --backgroundaccent: 50,50,50;
+  --backgroundprimary: 30,30,30;
+  --backgroundsecondary: 20,20,20;
+  --backgroundsecondaryalt: 15,15,15;
+  --backgroundtertiary: 10,10,10;
+  --backgroundfloating: 0,0,0;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
