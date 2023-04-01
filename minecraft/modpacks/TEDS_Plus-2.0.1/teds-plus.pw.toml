@@ -1,0 +1,13 @@
+name = "TEDS Plus"
+filename = "TEDS Plus-2.1.0-1.19.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "090af7d72934c3439650663595d53142060f3409"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4416957
+project-id = 688078
