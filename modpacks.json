@@ -1,7 +1,7 @@
 {
     "modpacks": [
       {
-        "id": "TEDS_Plus",
+        "id": "teds_plus",
         "name": "TEDS Plus",
         "description": "The best QoL vanilla modpack",
         "version": "2.1.0"
