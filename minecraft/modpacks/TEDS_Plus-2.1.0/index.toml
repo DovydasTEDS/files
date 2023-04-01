@@ -1,6 +1,0 @@
-hash-format = "sha256"
-
-[[files]]
-file = "teds-plus.pw.toml"
-hash = "a57e9ec5b82f526dbbcca92a2d34c4d5dd907a9c313542425c4f815e2357cca1"
-metafile = true
