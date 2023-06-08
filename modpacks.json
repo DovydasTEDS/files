@@ -4,7 +4,13 @@
         "id": "teds_plus_1_19_4",
         "name": "TEDS Plus 1.19.4",
         "description": "The best QoL vanilla modpack",
-        "version": "2.2.0"
+        "version": "2.2.1"
+      },
+      {
+        "id": "teds_smp_s2",
+        "name": "TEDS SMP S2",
+        "description": "Versatile but with Voice Chat",
+        "version": "2.0.0"
       }
     ]
   }
