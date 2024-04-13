@@ -1,0 +1,2 @@
+TEDSaver
+TEDSaver does not send any data to TeamTEDS servers. All data is stored locally on the user's device.
